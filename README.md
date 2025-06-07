@@ -25,8 +25,8 @@ This is a backend API project built with [Laravel](https://laravel.com/). It pro
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd pwf_mini_back
+git clone https://github.com/JohnLloydV/property-insights-dashboard-be.git
+cd property-insights-dashboard-be
 ```
 
 ### 2. Install dependencies
